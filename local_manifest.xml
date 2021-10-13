@@ -2,9 +2,9 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/sony/poplar" name="fazrul1994/android_device_sony_poplar.git" remote="github" revision="elle" />
- <project path="device/sony/yoshino-common" name="fazrul1994/android_device_sony_yoshino-common.git" remote="github" revision="elle" />
- <project path="vendor/sony/poplar" name="fazrul1994/android_vendor_sony_poplar.git" remote="github" revision="master" />
- <project path="kernel/sony/msm8998" name="fazrul1994/android_kernel_sony_msm8998.git" remote="github" revision="elle" />
+ <project path="device/sony/poplar" name="fazrul1994/android_device_sony_poplar.git" remote="github"
+ <project path="device/sony/yoshino-common" name="fazrul1994/android_device_sony_yoshino-common.git"
+ <project path="vendor/sony/poplar" name="fazrul1994/android_vendor_sony_poplar.git" remote="github"
+ <project path="kernel/sony/msm8998" name="fazrul1994/android_kernel_sony_msm8998.git" remote="github"
  
 </manifest>
