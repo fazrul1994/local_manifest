@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest>
+  <manifest>
+      <!-- SONY -->
+      <project name="fazrul1994/android_kernel_sony_msm8998" path="kernel/sony/msm8998" remote="github" revision="lineage-18.1" />
+      <project name="fazrul1994/android_device_sony_yoshino-common" path="device/sony/yoshino-common" remote="github" revision="lineage-18.1" />
+      <project name="fazrul1994/android_device_sony_poplar" path="device/sony/poplar" remote="github" revision="lineage-18.1" />
 
- <!-- Trees -->
- <project path="device/10or/G" name="RahulPalXDA/android_device_10or_G.git" remote="github" revision="lineage-18.1" />
- <project path="device/10or/msm8953-common" name="RahulPalXDA/android_device_10or_msm8953-common.git" remote="github" revision="lineage-18.1" />
- <project path="vendor/10or" name="RahulPalXDA/android_vendor_10or.git" remote="github" revision="master" />
- <project path="kernel/10or/G" name="10orDevs/android_kernel_10or_G-4.9.git" remote="github" revision="lineage-18.1" />
- 
-</manifest>
+      <!-- Pinned blobs for poplar -->
+      <project name="fazrul1994/android_vendor_sony_poplar" path="vendor/sony/poplar" remote="github" revision="lineage-18.1" />
+  </manifest>
