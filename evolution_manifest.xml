@@ -6,5 +6,5 @@
       <project name="fazrul1994/android_device_sony_poplar_kddi" path="device/sony/poplar_kddi" remote="github" revision="lineage-18.1" />
 
       <!-- Pinned blobs for poplar -->
-      <project name="whatawurst/android_vendor_sony_poplar_kddi" path="vendor/sony/poplar_kddi" remote="github" revision="lineage-18.1" />
+      <project name="fazrul1994/android_vendor_sony_poplar_kddi" path="vendor/sony/poplar_kddi" remote="github" revision="lineage-18.1" />
   </manifest>
