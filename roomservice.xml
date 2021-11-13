@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <manifest>
       <!-- SONY -->
-      <project name="whatawurst/android_kernel_sony_msm8998" path="kernel/sony/msm8998" remote="github" revision="lineage-18.1" />
-      <project name="whatawurst/android_device_sony_yoshino-common" path="device/sony/yoshino-common" remote="github" revision="lineage-18.1" />
-      <project name="fazrul1994/android_device_sony_poplar_kddi" path="device/sony/poplar_kddi" remote="github" revision="lineage-18.1" />
+      <project name="whatawurst/android_kernel_sony_msm8998" path="kernel/sony/msm8998" remote="github" revision="lineage-17.1" />
+      <project name="whatawurst/android_device_sony_yoshino-common" path="device/sony/yoshino-common" remote="github" revision="lineage-17.1" />
+      <project name="fazrul1994/android_device_sony_poplar_kddi" path="device/sony/poplar_kddi" remote="github" revision="lineage-17.1" />
 
       <!-- Pinned blobs for poplar -->
-      <project name="fazrul1994/android_vendor_sony_poplar_kddi" path="vendor/sony/poplar_kddi" remote="github" revision="lineage-18.1" />
+      <project name="fazrul1994/android_vendor_sony_poplar_kddi" path="vendor/sony/poplar_kddi" remote="github" revision="lineage-17.1" />
   </manifest>
